@@ -1,3 +1,6 @@
 # clone-tabnews
+
 Um projeto para treinar programação
-Pista rapida dia 11
+dia 16
+
+npm run test:watch
